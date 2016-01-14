@@ -1,0 +1,14 @@
+/**
+ * Created by charlie on 1/14/16.
+ */
+public class Main {
+    public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("I'M MAKING CHANGES");
+=======
+
+
+
+>>>>>>> 8b304b328caa5416db94cf15210d92e7d42f8011
+    }
+}
